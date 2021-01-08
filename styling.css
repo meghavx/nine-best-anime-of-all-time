@@ -1,21 +1,21 @@
 
 body {
     font-family: calibri;
-    color: white;
+    color: black;
 }
       
 a:active {
-    color: white;
+    color: black;
 }
 
 a:visited {
-    color: orange;
+    color: navy;
 }
 
 h1 {
     font-size: 36px;
     font-family: "Lexend Tera";
-    color: white;
+    color: black;
 }
 
 [type='checkbox'] {
@@ -28,22 +28,22 @@ h1 {
     color: #17202A;
 }
 
-.title-of-page {
+/* .title-of-page {
     background-color: #000;
     border-color: #000;
     border-style: dashed;
     padding: 1px 1px 1px 1px;
-}
+} */
 
 q {
-    font-family: "Playfair Display";
+/*     font-family: "Lexend Tera"; */
     font-size: 18px;
 }
 
 .f, .h {
     font-family: "Courier";
-    font-size: 18px;
-    color: white;
+    font-size: 20px;
+    color: black;
     text-align: center;
 }
 
@@ -53,7 +53,7 @@ q {
 }
 
 .movie-name {
-    color: #FFE57F;
+    color: black;
     font-size: 20px;
     font-family: "Anton";
 }
