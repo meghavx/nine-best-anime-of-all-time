@@ -51,7 +51,8 @@ q {
   display: flex;
   width: 75%;
   border: 12px solid #000;
-  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .movie-name {
