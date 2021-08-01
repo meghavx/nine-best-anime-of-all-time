@@ -49,7 +49,7 @@ q {
 
 .movie-img {
     display: flex;
-    width: 60%;
+    width: 50%;
     border: 12px solid #000;
     margin-left: auto;
     margin-right: auto;
