@@ -5,15 +5,19 @@ body {
     color: black;
 }
 
+/* 
 #horizontal-line {
   border-top: 2px solid white;
-}
+} 
+*/
 
+/* 
 a:active {
     color: darkcyan;
-}
+} 
+*/
 
-a:visited, a:after {
+a:active, a:visited, a:after {
     color: darkcyan;
 }
 
