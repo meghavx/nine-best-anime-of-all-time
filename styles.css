@@ -3,13 +3,13 @@ body {
     font-family: calibri;
     color: black;
 }
-      
-a:active {
-    color: black;
-}
 
-a:visited {
-    color: navy;
+#horizontal-line {
+  border-top: 2px solid white;
+}
+      
+a:active, a:visited, a:after {
+    color: darkcyan;
 }
 
 h1 {
@@ -28,20 +28,14 @@ h1 {
     color: #17202A;
 }
 
-/* .title-of-page {
-    background-color: #000;
-    border-color: #000;
-    border-style: dashed;
-    padding: 1px 1px 1px 1px;
-} */
-
 q {
     font-size: 18px;
 }
 
 .f, .h {
-    font-family: "Courier";
-    font-size: 20px;
+    padding: 2px;
+    font-family: "Lexend Tera";
+    font-size: 16px;
     color: black;
     text-align: center;
 }
@@ -55,6 +49,7 @@ q {
 }
 
 .movie-name {
+    margin-top: 1.75em;
     color: black;
     font-size: 20px;
     font-family: "Anton";
