@@ -8,8 +8,12 @@ body {
 #horizontal-line {
   border-top: 2px solid white;
 }
-      
-a:active, a:visited, a:after {
+
+a:active {
+    color: darkcyan;
+}
+
+a:visited, a:after {
     color: darkcyan;
 }
 
@@ -29,15 +33,7 @@ h1 {
     color: #17202A;
 }
 
-/* .title-of-page {
-    background-color: #000;
-    border-color: #000;
-    border-style: dashed;
-    padding: 1px 1px 1px 1px;
-} */
-
 q {
-/*     font-family: "Lexend Tera"; */
     font-size: 18px;
 }
 
@@ -50,11 +46,11 @@ q {
 }
 
 .movie-img {
-  display: flex;
-  width: 60%;
-  border: 12px solid #000;
-  margin-left: auto;
-  margin-right: auto;
+    display: flex;
+    width: 60%;
+    border: 12px solid #000;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .movie-name {
