@@ -30,5 +30,7 @@ Now that you've decided to read it anyway, you *may* checkout this project on my
  > There are 10 kinds of people — 
  > those who understand binary and those who don’t.
 
+<br>
+<br>
 
 ~~I should take more advantage of this freely available space.~~
