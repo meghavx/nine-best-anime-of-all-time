@@ -20,7 +20,6 @@ Now that you've decided to read it anyway, you *may* checkout this project on my
 
 **Connect with me** :rocket:
 * [Twitter](https://twitter.com/_orbitze)
-* [Instagram](https://instagram.com/meghaaae)
  
  <br>
  <br>
