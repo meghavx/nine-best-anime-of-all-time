@@ -1,5 +1,5 @@
 # First-Web-Project
-Very basic practice project using HTML and CSS. 
+Very basic practice project using `HTML` and `CSS`. 
 
 ## Feel free to ignore this Readme because it's __not__ one!
 
