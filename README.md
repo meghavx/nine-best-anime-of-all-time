@@ -12,7 +12,7 @@ Very basic practice project using `HTML` and `CSS`.
 
 Now that you've decided to read it anyway, you *may* checkout this project on my [CodePen](https://codepen.io/orbitze/pen/MWaNwGm) profile! :sparkles:
 <br>
-(I know it's not an impressive work, though.)
+(I know it's not much of an impressive work!)
 
 <br>
 <br>
