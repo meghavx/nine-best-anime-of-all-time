@@ -6,7 +6,9 @@ Very basic practice project using `HTML` and `CSS`.
 #### In truth this is just me acting out in the excitement of learning markdown today!
 #### I just needed a space to practice.
 
-Now that you've decided to read it anyway, feel free to check out this project on my [CodePen](https://codepen.io/orbitze/pen/MWaNwGm) profile! :sparkles:
+Now that you've decided to read it anyway, you *may* checkout this project on my [CodePen](https://codepen.io/orbitze/pen/MWaNwGm) profile! :sparkles:
+
+(I know it's not an impressive work, though.)
 
 **Connect with me** :rocket:
 * [Twitter](https://twitter.com/_orbitze)
