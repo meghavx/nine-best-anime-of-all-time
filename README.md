@@ -4,10 +4,8 @@ Very basic practice project using `HTML` and `CSS`.
 <br>
 <br>
 
-## Feel free to ignore this Readme because it's __not__ one!
-
-#### In truth this is just me acting out in the excitement of learning markdown today!
-#### I just needed a space to practice.
+## Feel free to ignore this README because it's *NOT* one!
+### I just needed a space to practice all the `markdown` that I have learnt today.
 
 <br>
 <br>
