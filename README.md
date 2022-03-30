@@ -35,4 +35,4 @@ Now that you've decided to read it anyway, you *may* consider viewing this proje
 <br>
 <br>
 
-~~I should take more advantage of this freely available space.~~
+~~I should take more advantage of this free available space.~~
