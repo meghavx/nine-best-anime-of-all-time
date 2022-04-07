@@ -1,8 +1,3 @@
-# First-Web-Project
-Very basic practice project using `HTML` and `CSS`. 
-
-<br>
-
 ## Feel free to ignore this README because it's *NOT* one!
 ### I just decided to use *this* space to practice all the `markdown` that I have learnt _today_.
 
