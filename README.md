@@ -10,9 +10,6 @@
 
 Now that you've decided to read it anyway, you *may* consider viewing this project on my [CodePen](https://codepen.io/orbitze/pen/MWaNwGm) profile! :sparkles:
 <br>
-(I know it's not much of an impressive work!)
-
-<br>
 <br>
 
 
