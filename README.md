@@ -32,4 +32,4 @@ Now that you've decided to read it anyway, you *may* consider viewing this proje
 <br>
 <br>
 
-[Click here](https://orbitze.github.io/First-Web-Dev-Project/)
+[Click here](https://meghavx.github.io/first-web-dev-project/)
