@@ -1,35 +1,28 @@
 ## Feel free to ignore this README because it's *NOT* one!
-### I just decided to use *this* space to practice all the `markdown` that I have learnt _today_.
-
-<br>
-<br>
-
-<img src="https://i.pinimg.com/originals/10/10/00/1010001ad3687e56d792f224bb37ba78.jpg" width="500px">
-
-<br>
-
-Now that you've decided to read it anyway, you *may* consider viewing this project on my [CodePen](https://codepen.io/orbitze/pen/MWaNwGm) profile! :sparkles:
-<br>
-<br>
+#### I just decided to use *this* space to practice all the `markdown` that I have learnt _today_.
 
 
-**Connect with me** :rocket:
-* [Twitter](https://twitter.com/_orbitze)
+<img src="https://i.pinimg.com/originals/10/10/00/1010001ad3687e56d792f224bb37ba78.jpg" height="400px">
+
+<br />
+<br />
+
+**View this Project on My CodePen Profile** :rocket:
+* [CodePen Profile](https://codepen.io/orbitze/pen/MWaNwGm)
  
- <br>
- <br>
+<br />
+<br />
  
- Did you know?
- 
+**Did you know?**
  > There are 10 kinds of people — 
  > those who understand binary and those who don’t.
 
-<br>
-<br>
+<br />
+<br />
 
-~~I should take more advantage of this free available space.~~
+~~This is how strikethrough works in Markdown.~~
 
-<br>
-<br>
+<br />
+<br />
 
-[Click here](https://meghavx.github.io/first-web-dev-project/)
+#### [ :sparkles: View my Page](https://meghavx.github.io/nine-best-anime-of-all-time/)
